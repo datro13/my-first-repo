@@ -8,6 +8,6 @@ Once you get the hang of *it*, you just:
 * Write your doc 
 * Done!
 
-Now you can be a Wiz at this language and code stuff like 'console.writeline("Hello Markdown");'
+Now you can be a Wiz at this language and code stuff like \'console.writeline("Hello Markdown");\'
 
 
